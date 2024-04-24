@@ -1,5 +1,5 @@
 ### Summary
-Enter a short summary of your changes here by sid.
+Enter a short summary of your changes.
 
 ### Change Details
 Enter the details describing your changes.
